@@ -829,9 +829,9 @@ This comprehensive Power BI dashboard showcases professional-level data analytic
 
 ---
 
-**Project Created:** [Date]  
-**Author:** [Your Name]  
-**Contact:** [Your Email]  
+**Project Created:** [09-04-2026]  
+**Author:** [lakshay sharma]  
+**Contact:** [luckysim574@gmail.com]  
 **Portfolio:** [Link to Portfolio]
 
 ---
